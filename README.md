@@ -24,35 +24,35 @@ Participar en proyectos que involucren optimizar y automatizar: procesos, estrat
 
 - ⚡ RESUMEN:
 
-🌎English Advanced (C1)
-🚀MA in Finance & Economics
-💻Data Visualization & Data Storytelling
-🏔Machine Learning (Python, SQL)
+🌎English Advanced (C1) &&
+🚀MA in Finance & Economics &&
+💻Data Visualization & Data Storytelling &&
+🏔Machine Learning (Python, SQL) &&
 🌈Full Stack Development (JS PERN)
 
-🖱Frontend (JS)
-        React
-        Ajax
-        Redux
-        CSS
+🖱Frontend (JS):
+        React-
+        Ajax-
+        Redux-
+        CSS-
 
-⌨️Backend (JS)
-        Node.js
-        Web Server
-        Express
+⌨️Backend (JS): 
+        Node.js-
+        Web Server-
+        Express-
 
-🔎Data Base
-        PostgreSQL
-        Mongo DB
-        Oracle SQL Developer
+🔎Data Base: 
+        PostgreSQL-
+        Mongo DB-
+        Oracle SQL Developer-
 
-💡Languages
-        JavaScript
-        Python
+💡Languages: 
+        JavaScript-
+        Python-
 
-📺 Visualization
-        Tableau
-        Power BI
+📺 Visualization: 
+        Tableau-
+        Power BI-
 
-- 🚎 ¿Cómo contactarme?
+- 🚎 ¿Cómo contactarme?: 
       https://www.linkedin.com/in/jrnoya/
