@@ -54,5 +54,5 @@ Participar en proyectos que involucren optimizar y automatizar: procesos, estrat
         Tableau-
         Power BI-
 
-- 🚎 ¿Cómo contactarme?: 
+- 🚎 CONTACTO:
       https://www.linkedin.com/in/jrnoya/
