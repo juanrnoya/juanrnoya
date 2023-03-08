@@ -1,6 +1,6 @@
 ### console.log("HELLO WORLD") 👋
 
-- 🔭 SOBRE MÍ
+- 🔭 SOBRE MÍ /n
 Hola!! 👋 mi nombre es Juan Ramón ☺. Soy experto en Contabilidad Financiera y Controlling, fanático de las nuevas tecnologías, en concreto las relacionadas con el desarrollo y Data Science. Además, apasionado de las inversiones a través de acciones y derivados financieros sobre equities y commodities.
 
 - 🌱 FORMACIÓN
