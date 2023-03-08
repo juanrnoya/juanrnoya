@@ -55,4 +55,5 @@ Participar en proyectos que involucren optimizar y automatizar: procesos, estrat
         Power BI-
 
 - 🚎 CONTACTO:
+
       https://www.linkedin.com/in/jrnoya/
