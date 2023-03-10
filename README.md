@@ -24,35 +24,17 @@ Participar en proyectos que involucren optimizar y automatizar: procesos, estrat
 
 - ⚡ RESUMEN:
 
-🌎English Advanced (C1) --
-🚀MA in Finance & Economics --
-💻Data Visualization & Data Storytelling --
-🏔Machine Learning (Python, SQL) --
-🌈Full Stack Development (JS PERN)
+🌎English Advanced (C1)
+🚀MA in Finance & Economics
+🏔Machine Learning
+💻Data Visualization & Data Storytelling
+🌈Full Stack Developer
 
-🖱Frontend (JS):
-        React-
-        Ajax-
-        Redux-
-        CSS-
-
-⌨️Backend (JS): 
-        Node.js-
-        Web Server-
-        Express-
-
-🔎Data Base: 
-        PostgreSQL-
-        Mongo DB-
-        Oracle SQL Developer-
-
-💡Languages: 
-        JavaScript-
-        Python-
-
-📺 Visualization: 
-        Tableau-
-        Power BI-
+💡Languages || JavaScript || Python
+🖱Frontend (JS) || React || Ajax || Redux || CSS
+⌨️Backend (JS) || Node.js || Web Server || Express
+🔎Data Base || PostgreSQL || Mongo DB || Oracle SQL Developer ||
+📺 Visualization || Power BI || Tableau
 
 - 🚎 CONTACTO:
 
