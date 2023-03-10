@@ -24,11 +24,11 @@ Participar en proyectos que involucren optimizar y automatizar: procesos, estrat
 
 - ⚡ RESUMEN:
 
-🌎English Advanced (C1)
-🚀MA in Finance & Economics
-🏔Machine Learning
-💻Data Visualization & Data Storytelling
-🌈Full Stack Developer
+🌎English Advanced (C1) 
+🚀MA in Finance & Economics 
+🏔Machine Learning 
+💻Data Visualization & Data Storytelling 
+🌈Full Stack Developer 
 
 💡Languages || JavaScript || Python
 🖱Frontend (JS) || React || Ajax || Redux || CSS
