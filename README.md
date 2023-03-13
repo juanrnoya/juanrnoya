@@ -1,6 +1,4 @@
 ### console.log("HELLO WORLD") 👋
-- ⚡ RESUMEN:
-
 🌎English Advanced (C1)
 
 🚀MA in Finance & Economics
